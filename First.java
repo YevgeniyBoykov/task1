@@ -1,8 +1,6 @@
 package Task_Proj;
 
-import java.util.Scanner;
 
-class First
 {
   private static float division(float x, float y)
   {
